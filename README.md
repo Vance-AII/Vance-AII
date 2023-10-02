@@ -3,7 +3,7 @@
 #### Fullstack Developer: Small language model chasing large language models
 Experience:
 - TypeScript, Python, Node/Express, Java, SQL, No-SQL(Mongo, Firebase)
-- React and ReactNative development and deployment
+- React and ReactNative development
 - Network communications and protocol (TCP/IP, WiFi/Bluetooth, NFC, USB)
 
 #### Current Interests:
