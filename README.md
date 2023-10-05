@@ -3,8 +3,8 @@
 #### Fullstack Developer: Small language model chasing large language models
 Experience:
 - TypeScript, Python, Node/Express, Java, SQL, No-SQL(Mongo, Firebase)
-- React and ReactNative development
-- Network communications and protocol (TCP/IP, WiFi/Bluetooth, NFC, USB)
+- Fulltime React and React Native developmer
+- Previous Senior QA Engineer for network communications - WiFi/Bluetooth (2.4 & 5GHz), NFC, USB Gen3/4, TCP/IP protocols. Internet of Things (IoT) interoperability testing
 
 #### Current Interests:
 - Advanced_Python, PyTorch and LLM training (NLP, Vision, Classification)
